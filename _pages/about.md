@@ -62,35 +62,15 @@ redirect_from:
 
 <span class='anchor' id='jobs2'></span>    
 
-
-
-
-
 # 📑 科研项目
 [1]云南省教育厅项目，基于单细胞图表示学习的疾病关键细胞亚群识别方法研究，2026-2028，在研，主持。
 
- 
-
-
-
 <span class='anchor' id='award'></span>
+
 # 📝 学术论文
 https://orcid.org/0000-0002-4959-1070
 
-
-
-
 <span class='anchor' id='award'></span>
-
-# 🏛️ 学术兼职
-<table class="cv-table"><tr><td class="cv-date">  
-      暂无
-</table>
-
-
-
-
-<span class='anchor' id='projects'></span> 
 
 # 🌟 奖项荣誉
 <table class="cv-table"><tr><td class="cv-date">       
@@ -102,6 +82,15 @@ https://orcid.org/0000-0002-4959-1070
     </td></tr>
 </table>
 
+# 🏛️ 学术兼职
+<table class="cv-table"><tr><td class="cv-date">       
+      暂无<br>
+    </td><td>
+      暂无<br>
+    </td></tr>
+</table>
+
+<span class='anchor' id='projects'></span> 
 
 
 <img src="images/contact.png" width="50%" height="50%" style="display: block; margin: 60px auto 0;"/>
