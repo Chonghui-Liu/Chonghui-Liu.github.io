@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "教育经历"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "工作经历"
-    url: "/#-jobs"
+    url: "/#jobs"
     
   - title: "学术兼职"
-    url: "/#-servicess"
+    url: "/#servicess"
 
   - title: "科研项目"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "学术论文"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "其他"
-    url: "/#-awards"
+    url: "/#awards"
