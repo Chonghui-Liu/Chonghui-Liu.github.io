@@ -82,6 +82,16 @@ https://orcid.org/0000-0002-4959-1070
 
 <span class='anchor' id='award'></span>
 
+# 🏛️ 学术兼职
+<table class="cv-table"><tr><td class="cv-date">  
+      暂无
+</table>
+
+
+
+
+<span class='anchor' id='projects'></span> 
+
 # 🌟 奖项荣誉
 <table class="cv-table"><tr><td class="cv-date">       
       2024.12<br>
