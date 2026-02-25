@@ -70,7 +70,7 @@ redirect_from:
 # 📝 学术论文
 https://orcid.org/0000-0002-4959-1070
 
-<span class='anchor' id='award'></span>
+<span class='anchor' id='awards'></span>
 
 # 🌟 奖项荣誉
 <table class="cv-table"><tr><td class="cv-date">       
@@ -82,7 +82,7 @@ https://orcid.org/0000-0002-4959-1070
     </td></tr>
 </table>
 
-<span class='anchor' id='jobs2'></span>
+<span class='anchor' id='servicess'></span>
 
 # 🏛️ 学术兼职
 <table class="cv-table"><tr><td class="cv-date">       
