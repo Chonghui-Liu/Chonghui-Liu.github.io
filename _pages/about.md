@@ -56,7 +56,7 @@ redirect_from:
 <table class="cv-table"><tr><td class="cv-date">      
       2025.09 - 今<br>
     </td><td>
-      昆明理工大学 省部共建非人灵长类国家重点实验室/灵长类转化医学研究院学院</a>，讲师<br>
+      昆明理工大学 省部共建非人灵长类国家重点实验室/灵长类转化医学研究院学院，讲师<br>
     </td></tr>
 </table>
 
