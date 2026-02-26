@@ -94,7 +94,4 @@ https://orcid.org/0000-0002-4959-1070
 
 
 
-<img src="images/contact.png" width="50%" height="50%" style="display: block; margin: 60px auto 0;"/>
-
-
 
