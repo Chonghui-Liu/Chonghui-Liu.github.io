@@ -45,7 +45,7 @@ redirect_from:
       2021.9&ensp; - 2025.6<br>
       2014.9&ensp; - 2021.6
     </td><td>
-      博士 - 东北林业大学，生命科学学院，生物学专业；导师：<a href="https://homepage.hit.edu.cn/wangguohua">汪国华教授</a>)<br>
+      博士 - 东北林业大学，生命科学学院，生物学专业；（导师：<a href="https://homepage.hit.edu.cn/wangguohua">汪国华教授</a>）<br>
       本硕 - 哈尔滨医科大学，基础医学院，基础医学七年制专业（本硕连读）
     </td></tr>
 </table>
